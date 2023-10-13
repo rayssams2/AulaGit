@@ -1,1 +1,12 @@
 Aluna: Rayssa Maravilha Salviano
+Commit: salva alterações em um ou mais arquivos no "branch".
+Branch: cria, exlui e altera ramificações. O nome "branch" significa galho, por isso suas ramificações são similiares a um galho.
+Merge: o merge faz com que as ramificações criadas pelo comando "branch", se unifique em uma só.
+MainLine: a mainline é um comando que deixa todas as ramificações do "branch" em uma só linha.
+Clone: copia o repositório para sua máquina local.
+Push: faz com que as alterações da máquina local sejam enviadas para a máquina remota.
+Pull: permite que o usuário  informe a outras pessoas sobre as alterações feitas no repositório.
+Add: adiciona arquivos novos ou modificados no diretório de trabalho.
+Staged: são arquivos que estão prontos para serem enviados para o repositório na sua área de trabalho.
+Version: mostra as versões dos arquivos no seu repositório.
+Repository: contém todos os arquivos e projetos que o usuário trabalhou e criou.
